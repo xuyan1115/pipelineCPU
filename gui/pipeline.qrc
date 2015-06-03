@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>pipeline.jpg</file>
+  </qresource>
+</RCC>
